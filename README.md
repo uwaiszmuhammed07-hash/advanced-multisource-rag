@@ -54,5 +54,5 @@ streamlit run app.py
 Website: https://www.ibm.com/think/topics/data-science
 Question: What is data science?
 
-👨‍💻 Author
-Uwais Muhammed KP
+
+
