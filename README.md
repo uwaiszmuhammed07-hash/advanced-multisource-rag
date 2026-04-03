@@ -33,28 +33,32 @@ Upload PDF / CSV / Enter URL → Data Processing → Retrieval → LLM → Final
 | 🔍 Retrieval      | Find relevant chunks       | Context        |
 | 🤖 LLM (Groq)     | Generate answer            | Final response |
 
+,,,
+
 
 🚀 Getting Started
+```
 1. Clone the repository
 git clone https://github.com/uwaiszmuhammed07-hash/advanced-multisource-rag.git
 cd advanced-multisource-rag
-
+```
 2. Create virtual environment
 python -m venv venv
 source venv/bin/activate
 
-
+```
 3. Install dependencies
 pip install -r requirements.txt
-
+```
 4. Add your API key
 
 Create a .env file:
 GROQ_API_KEY=your_groq_api_key_here
-
+```
 5. Run the app
 streamlit run app.py
 
+```
 ## 🛠️ Tech Stack
 | Technology    | Purpose            |
 | ------------- | ------------------ |
@@ -64,7 +68,7 @@ streamlit run app.py
 | Pandas        | CSV processing     |
 | BeautifulSoup | Web scraping       |
 | PyPDF         | PDF processing     |
-
+```
 ## 📁 Project Structure
 advanced-multisource-rag/
 ├── .env
@@ -85,7 +89,7 @@ advanced-multisource-rag/
 │   └── llm/
 │       └── response_generator.py
 └── data/
-
+```
 ## ✨ Key Features
 ✅ Multi-source data ingestion
 ✅ PDF, CSV, and website support
