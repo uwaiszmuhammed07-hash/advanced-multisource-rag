@@ -33,9 +33,8 @@ Upload PDF / CSV / Enter URL → Data Processing → Retrieval → LLM → Final
 | 🔍 Retrieval      | Find relevant chunks       | Context        |
 | 🤖 LLM (Groq)     | Generate answer            | Final response |
 
-
 ```
-🚀 Getting Started
+## 🚀 Getting Started
 ```
 1. Clone the repository
   ```
