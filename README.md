@@ -24,3 +24,10 @@ The system retrieves relevant information and generates intelligent answers usin
 ## 🎬 How It Works
 ```text
 Upload PDF / CSV / Enter URL → Data Processing → Retrieval → LLM → Final Answer
+
+🧠 Core Components
+Component	Role	Output
+📥 Data Ingestion	Load PDF, CSV, Web content	Raw text
+🧹 Processing	Clean and structure data	Processed text
+🔍 Retrieval	Find relevant chunks	Context
+🤖 LLM (Groq)	Generate answer	Final response
