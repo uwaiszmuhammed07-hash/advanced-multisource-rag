@@ -94,18 +94,18 @@ advanced-multisource-rag/
 └── data/
 ```
 ## ✨ Key Features
-✅ Multi-source data ingestion
-✅ PDF, CSV, and website support
-✅ Intelligent retrieval system
-✅ AI-powered answer generation
-✅ Live deployed app on Render
-✅ Clean and interactive Streamlit UI
+- ✅ Multi-source data ingestion
+- ✅ PDF, CSV, and website support
+- ✅ Intelligent retrieval system
+- ✅ AI-powered answer generation
+- ✅ Live deployed app on Render
+- ✅ Clean and interactive Streamlit UI
 
 ## 💡 Use Cases
-📚 Students — Ask questions from notes and PDFs
-📊 Data Analysts — Query CSV datasets
-🌐 Researchers — Extract insights from websites
-👨‍💻 Developers — Learn and build RAG applications
+- 📚 Students — Ask questions from notes and PDFs
+- 📊 Data Analysts — Query CSV datasets
+- 🌐 Researchers — Extract insights from websites
+- 👨‍💻 Developers — Learn and build RAG applications
 
 ##👨‍💻 Built By
 
