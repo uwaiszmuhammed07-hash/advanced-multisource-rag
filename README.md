@@ -1,58 +1,26 @@
-# 🚀 Advanced Multi-Source RAG for Enterprise Knowledge Base
+# 🤖 Advanced Multi-Source RAG System
 
-An AI-powered **Retrieval-Augmented Generation (RAG)** application that answers questions using multiple data sources like **PDFs, CSV files, and websites**.
-
----
-
-## 🌐 Live Demo  
- https://advanced-multisource-rag.onrender.com
+> An AI-powered Retrieval-Augmented Generation (RAG) system that can answer questions from PDFs, CSV files, and websites — built with Python, Streamlit, and Groq API.
 
 ---
 
-## 📌 Project Overview
-
-This project demonstrates how AI systems combine **retrieval + LLM** to generate accurate answers.
-
----
-
-## 🎯 Features
-
-- 📄 PDF Processing  
-- 📊 CSV Data Handling  
-- 🌐 Website Content Extraction  
-- 🔍 Intelligent Retrieval System  
-- 🤖 AI Answer Generation (Groq)  
-- 💬 Streamlit UI  
+## 🌐 Live Demo
+**[🚀 Try the live app → https://advanced-multisource-rag.onrender.com](https://advanced-multisource-rag.onrender.com)**
 
 ---
 
-## 🛠️ Tech Stack
+## 📌 What Is This Project?
 
-- Python  
-- Streamlit  
-- Groq API  
-- Pandas  
-- BeautifulSoup  
-- PyPDF  
+An **Advanced Multi-Source RAG System** that allows users to upload and query multiple data sources:
+
+- 📄 PDFs  
+- 📊 CSV files  
+- 🌐 Websites  
+
+The system retrieves relevant information and generates intelligent answers using an LLM (Groq API).
 
 ---
 
-## ▶️ Run Locally
-
-```bash
-git clone https://github.com/YOUR_USERNAME/advanced-multisource-rag.git
-cd advanced-multisource-rag
-
-python3 -m venv venv
-source venv/bin/activate
-
-pip install -r requirements.txt
-streamlit run app.py
-
-📸 Example
-
-Website: https://www.ibm.com/think/topics/data-science
-Question: What is data science?
-
-
-
+## 🎬 How It Works
+```text
+Upload PDF / CSV / Enter URL → Data Processing → Retrieval → LLM → Final Answer
