@@ -24,7 +24,7 @@ The system retrieves relevant information and generates intelligent answers usin
 ## 🎬 How It Works
 ```text
 Upload PDF / CSV / Enter URL → Data Processing → Retrieval → LLM → Final Answer
-
+```
 ## 🧠 Core Components
 | Component         | Role                       | Output         |
 | ----------------- | -------------------------- | -------------- |
